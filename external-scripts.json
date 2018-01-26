@@ -8,6 +8,5 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-encourage",
-  "hubot-thank-you"
+  "hubot-encourage"
 ]
