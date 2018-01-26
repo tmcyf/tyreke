@@ -50,7 +50,7 @@ module.exports = (robot) ->
         json = JSON.parse body
         switch res.statusCode
           when 201
-            msg.send "Okay! Send SMS to #{to}"
+            msg.send "Okay! Sent SMS to #{to}"
           when 400
             msg.send "Sorry! Failed to send. #{json.message}"
           else
