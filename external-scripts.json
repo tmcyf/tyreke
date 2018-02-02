@@ -7,5 +7,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-encourage"
+  "hubot-encourage",
+  "hubot-heroku-keepalive"
 ]
